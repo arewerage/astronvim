@@ -8,5 +8,6 @@ return {
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
   --
 
-  { import = "astrocommunity.colorscheme.gruvbox-baby" }
+  { import = "astrocommunity.colorscheme.gruvbox-baby" },
+  { import = "astrocommunity.pack.rust" }
 }
