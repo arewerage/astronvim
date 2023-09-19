@@ -9,7 +9,14 @@ return {
   --
 
   { import = "astrocommunity.colorscheme.gruvbox-baby" },
+
   { import = "astrocommunity.pack.rust" },
+  { import = "astrocommunity.pack.wgsl" },
+  { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.pack.json" },
+  { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.markdown" },
-  { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim"}
+
+  { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
 }
